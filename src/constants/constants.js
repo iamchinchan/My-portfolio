@@ -1,3 +1,24 @@
+export const certificates =[
+  {
+    title:"The complete 2021 web development bootcamp!",
+    description:"something something",
+    image:"/images/Notes-Kepper-Image.jpeg",
+  },
+  {
+    title:"The complete 2021 web development bootcamp!",
+    description:"something something",
+    image:"/images/Notes-Kepper-Image.jpeg",
+
+  },
+  {
+    title:"The complete 2021 web development bootcamp!",
+    description:"something something",
+    image:"/images/Notes-Kepper-Image.jpeg",
+
+  },
+];
+
+
 export const projects = [
   {
     title: 'Notes Keeper',

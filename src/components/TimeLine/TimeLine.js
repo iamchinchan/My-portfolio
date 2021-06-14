@@ -43,6 +43,7 @@ const Timeline = () => {
   }, []);
 
   return (
+    <>
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
@@ -114,6 +115,24 @@ const Timeline = () => {
       </CarouselButtons>
       <SectionDivider />
     </Section>
+
+
+
+
+<Section id="experience">
+      <SectionTitle>Experience</SectionTitle>
+      <SectionText>
+      I am a quick learner. I am inquisitive by nature and that helps me not only solve problems but enjoy them. I believe that the solution to a problem lies in asking the right questions. I am eager to learn and evolve.
+      </SectionText>
+      <SectionText>
+      I am a quick learner. I am inquisitive by nature and that helps me not only solve problems but enjoy them. I believe that the solution to a problem lies in asking the right questions. I am eager to learn and evolve.
+      </SectionText>
+      <SectionText>
+      I am a quick learner. I am inquisitive by nature and that helps me not only solve problems but enjoy them. I believe that the solution to a problem lies in asking the right questions. I am eager to learn and evolve.
+      </SectionText>
+      <SectionDivider />
+    </Section>
+    </>
   );
 };
 
